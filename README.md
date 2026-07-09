@@ -1,303 +1,113 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fatimiyah Abas - Marketing Strategist & Brand Builder</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <!-- Navigation -->
-    <nav class="navbar">
-        <div class="nav-container">
-            <div class="nav-logo">
-                <span class="logo-icon">🎯</span>
-                <span>Fatimiyah</span>
-            </div>
-            <ul class="nav-menu">
-                <li><a href="#home" class="nav-link">Home</a></li>
-                <li><a href="#about" class="nav-link">About</a></li>
-                <li><a href="#expertise" class="nav-link">Expertise</a></li>
-                <li><a href="#strengths" class="nav-link">Strengths</a></li>
-                <li><a href="#contact" class="nav-link">Contact</a></li>
-            </ul>
-        </div>
-    </nav>
+# Fatimiyah Abas Abdul Manan Nduen
 
-    <!-- Hero Section -->
-    <section id="home" class="hero">
-        <div class="hero-background">
-            <div class="gradient-blob blob1"></div>
-            <div class="gradient-blob blob2"></div>
-            <div class="gradient-blob blob3"></div>
-        </div>
-        
-        <div class="hero-content">
-            <div class="hero-text">
-                <h1 class="hero-title">
-                    <span class="title-word">Hi, I'm</span>
-                    <span class="title-highlight">Fatimiyah Abas</span>
-                </h1>
-                <p class="hero-subtitle">Marketing Strategist | Brand Builder | Data-Driven Creative</p>
-                <p class="hero-description">
-                    I blend strategic thinking with creative execution to craft compelling brand stories and drive meaningful customer connections.
-                </p>
-                <div class="cta-buttons">
-                    <a href="#contact" class="btn btn-primary">Let's Collaborate</a>
-                    <a href="#expertise" class="btn btn-secondary">Explore My Work</a>
-                </div>
-            </div>
-            
-            <div class="hero-visual">
-                <div class="avatar-circle">
-                    <div class="avatar-content">
-                        <span>📊</span>
-                    </div>
-                </div>
-                <div class="floating-cards">
-                    <div class="card-float card1">Brand Strategy</div>
-                    <div class="card-float card2">Digital Marketing</div>
-                    <div class="card-float card3">Data Analytics</div>
-                </div>
-            </div>
-        </div>
-    </section>
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Seeking%20Internship-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Brand%20Strategy%20%26%20Marketing-blue?style=for-the-badge" />
+</p>
 
-    <!-- About Section -->
-    <section id="about" class="about">
-        <div class="container">
-            <div class="section-header">
-                <h2>About Me</h2>
-                <div class="header-accent"></div>
-            </div>
-            
-            <div class="about-content">
-                <div class="about-text">
-                    <p>
-                        I'm a passionate marketing professional with a Bachelor's degree in Marketing from Albukhary International University. My journey combines academic rigor with real-world creative problem-solving.
-                    </p>
-                    <p>
-                        What drives me is the intersection of data and creativity—transforming insights into strategies that create impact. Whether it's building brands from the ground up or optimizing complex customer journeys, I'm committed to delivering measurable results.
-                    </p>
-                </div>
-                
-                <div class="education-card">
-                    <div class="education-icon">🎓</div>
-                    <h3>Education</h3>
-                    <p><strong>Bachelor's in Marketing</strong></p>
-                    <p class="subtitle">Albukhary International University</p>
-                </div>
-            </div>
-        </div>
-    </section>
+### 📊 Marketing Student @ Albukhary International University
 
-    <!-- Expertise Section -->
-    <section id="expertise" class="expertise">
-        <div class="container">
-            <div class="section-header">
-                <h2>What I Do</h2>
-                <div class="header-accent accent-right"></div>
-            </div>
-            
-            <div class="expertise-grid">
-                <div class="expertise-card expertise-1">
-                    <div class="expertise-icon">🎨</div>
-                    <h3>Brand Strategy</h3>
-                    <p>Positioning, identity development, brand architecture</p>
-                    <div class="card-accent"></div>
-                </div>
-                
-                <div class="expertise-card expertise-2">
-                    <div class="expertise-icon">📊</div>
-                    <h3>Market Research</h3>
-                    <p>Consumer insights, competitive analysis, trend forecasting</p>
-                    <div class="card-accent"></div>
-                </div>
-                
-                <div class="expertise-card expertise-3">
-                    <div class="expertise-icon">🚀</div>
-                    <h3>Campaign Strategy</h3>
-                    <p>Integrated marketing, digital campaigns, customer experience</p>
-                    <div class="card-accent"></div>
-                </div>
-                
-                <div class="expertise-card expertise-4">
-                    <div class="expertise-icon">📈</div>
-                    <h3>Analytics</h3>
-                    <p>Data interpretation, performance metrics, ROI optimization</p>
-                    <div class="card-accent"></div>
-                </div>
-                
-                <div class="expertise-card expertise-5">
-                    <div class="expertise-icon">🔬</div>
-                    <h3>Research</h3>
-                    <p>Publishing-level research, academic rigor, insights extraction</p>
-                    <div class="card-accent"></div>
-                </div>
-                
-                <div class="expertise-card expertise-6">
-                    <div class="expertise-icon">💡</div>
-                    <h3>Innovation</h3>
-                    <p>New approaches to customer experience and service marketing</p>
-                    <div class="card-accent"></div>
-                </div>
-            </div>
-        </div>
-    </section>
+---
 
-    <!-- Strengths Section -->
-    <section id="strengths" class="strengths">
-        <div class="container">
-            <div class="section-header">
-                <h2>My Strengths</h2>
-                <div class="header-accent"></div>
-            </div>
-            
-            <div class="strengths-grid">
-                <div class="strength-item strength-1">
-                    <div class="strength-number">01</div>
-                    <h3>Strategic Thinking</h3>
-                    <p>I translate complex business objectives into clear, actionable marketing strategies that drive results.</p>
-                    <div class="strength-bar"></div>
-                </div>
-                
-                <div class="strength-item strength-2">
-                    <div class="strength-number">02</div>
-                    <h3>Data-Driven Decisions</h3>
-                    <p>Every recommendation is backed by solid research, analytics, and consumer behavior insights.</p>
-                    <div class="strength-bar"></div>
-                </div>
-                
-                <div class="strength-item strength-3">
-                    <div class="strength-number">03</div>
-                    <h3>Creative Problem-Solving</h3>
-                    <p>I create engaging content, compelling campaigns, and innovative solutions that stand out.</p>
-                    <div class="strength-bar"></div>
-                </div>
-                
-                <div class="strength-item strength-4">
-                    <div class="strength-number">04</div>
-                    <h3>Holistic Perspective</h3>
-                    <p>I understand the complete customer journey—from awareness to loyalty—and the broader brand ecosystem.</p>
-                    <div class="strength-bar"></div>
-                </div>
-                
-                <div class="strength-item strength-5">
-                    <div class="strength-number">05</div>
-                    <h3>Research Excellence</h3>
-                    <p>With academic publishing experience, I bring rigorous methodology and deep insights to every project.</p>
-                    <div class="strength-bar"></div>
-                </div>
-            </div>
-        </div>
-    </section>
+## 📑 About Me
 
-    <!-- Skills Section -->
-    <section class="skills">
-        <div class="container">
-            <div class="section-header">
-                <h2>Key Skills</h2>
-                <div class="header-accent accent-right"></div>
-            </div>
-            
-            <div class="skills-grid">
-                <div class="skill-tag skill-tag-1">Brand Positioning</div>
-                <div class="skill-tag skill-tag-2">Consumer Behavior</div>
-                <div class="skill-tag skill-tag-3">Digital Strategy</div>
-                <div class="skill-tag skill-tag-4">Market Research</div>
-                <div class="skill-tag skill-tag-5">Campaign Management</div>
-                <div class="skill-tag skill-tag-6">Data Analysis</div>
-                <div class="skill-tag skill-tag-7">Content Strategy</div>
-                <div class="skill-tag skill-tag-8">Customer Journey</div>
-                <div class="skill-tag skill-tag-9">Analytics & ROI</div>
-            </div>
-        </div>
-    </section>
+<table>
+  <tr>
+    <td bgcolor="#f4f7fa">
+      <p>High-achieving <strong>Bachelor of Business Administration (Honors) in Marketing</strong> student from Albukhary International University with a strong academic foundation (<strong>CGPA 3.41/4.0</strong>). Highly passionate about brand strategy, marketing communication, and event management, I possess practical experience in building core brand identities, executing strategic promotional campaigns, and coordinating comprehensive event logistics. By bridging creative storytelling with structured marketing frameworks, I have proven my capability in driving audience engagement and managing on-site event operations—ready to contribute meticulous execution and strategic insights to corporate initiatives.</p>
+    </td>
+  </tr>
+</table>
 
-    <!-- Collaboration Section -->
-    <section class="collaboration">
-        <div class="container">
-            <div class="section-header">
-                <h2>Let's Collaborate!</h2>
-                <div class="header-accent"></div>
-            </div>
-            
-            <p class="collab-intro">I'm excited to work on projects involving:</p>
-            
-            <div class="collab-items">
-                <div class="collab-item collab-1">
-                    <span class="collab-emoji">🎯</span>
-                    <div class="collab-text">
-                        <h4>Brand Development</h4>
-                        <p>Creating or repositioning brands with impact</p>
-                    </div>
-                </div>
-                
-                <div class="collab-item collab-2">
-                    <span class="collab-emoji">📊</span>
-                    <div class="collab-text">
-                        <h4>Market Research</h4>
-                        <p>Uncovering consumer insights and market opportunities</p>
-                    </div>
-                </div>
-                
-                <div class="collab-item collab-3">
-                    <span class="collab-emoji">🎬</span>
-                    <div class="collab-text">
-                        <h4>Campaign Strategy</h4>
-                        <p>Designing integrated marketing campaigns</p>
-                    </div>
-                </div>
-                
-                <div class="collab-item collab-4">
-                    <span class="collab-emoji">💡</span>
-                    <div class="collab-text">
-                        <h4>Innovation</h4>
-                        <p>Exploring new approaches to customer experience</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+---
 
-    <!-- Contact Section -->
-    <section id="contact" class="contact">
-        <div class="container">
-            <div class="section-header">
-                <h2>Get In Touch</h2>
-                <div class="header-accent accent-right"></div>
-            </div>
-            
-            <p class="contact-intro">I'd love to hear from you! Whether you want to discuss a project, explore collaboration opportunities, or chat about marketing trends.</p>
-            
-            <div class="contact-methods">
-                <a href="mailto:fatimiyahabas@gmail.com" class="contact-card contact-email">
-                    <div class="contact-icon">📧</div>
-                    <h3>Email</h3>
-                    <p>fatimiyahabas@gmail.com</p>
-                </a>
-                
-                <a href="https://www.linkedin.com/in/fatimiyah-abas-abdul-manan-nduen-87868734a?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank" class="contact-card contact-linkedin">
-                    <div class="contact-icon">💼</div>
-                    <h3>LinkedIn</h3>
-                    <p>Connect with me</p>
-                </a>
-            </div>
-            
-            <div class="cta-final">
-                <p>Let's build something amazing together! 🚀</p>
-            </div>
-        </div>
-    </section>
+## 🎯 Internship Objective
 
-    <!-- Footer -->
-    <footer class="footer">
-        <div class="container">
-            <p>&copy; 2026 Fatimiyah Abas. All rights reserved.</p>
-            <p>Marketing Strategist | Brand Builder | Data-Driven Creative</p>
-        </div>
-    </footer>
+<table>
+  <tr>
+    <td bgcolor="#eff6ff">
+      🔑 <strong>Timeframe:</strong> Seeking a full-time internship from <strong>August 2026 – October 2026</strong>.<br>
+      🚀 <strong>Target Roles:</strong> Brand Strategy, Event Planning, Content Creation, or Corporate Marketing.<br>
+      🎓 <strong>Future Outlook:</strong> Expected graduation on <strong>28 November 2026</strong>. Highly motivated to contribute fresh strategic insights and transition into an impactful full-time marketing role.
+    </td>
+  </tr>
+</table>
 
-    <script src="script.js"></script>
-</body>
-</html>
+---
+
+## 🚀 Core Experiences
+
+### 💼 NOVASHELL Social Business
+> **Brand Strategist**
+* Developed complete visual identity, eco-friendly packaging guidelines, and brand voice.
+
+### ☕ ZUS Coffee IMC Campaign
+> **Project Lead**
+* Designed multimedia campaign video and applied STP framework to optimize audience targeting.
+
+### 📣 Business & Marketing Society (BMS), AIU
+> **Head of Information & Publicity**
+* Managed communication strategies and led promotional layouts for society events.
+
+### 🌍 International Youth Cooperation Forum (ICYF)
+> **Country Representative (Timor-Leste)**
+* Represented youth initiatives and participated in global academic and cross-cultural discourse.
+
+---
+
+## 🛠️ Technical & Creative Skills
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/CapCut-%23000000.svg?style=for-the-badge&logo=CapCut&logoColor=white" />
+  <img src="https://img.shields.io/badge/IBM_SPSS-%230073B7.svg?style=for-the-badge&logo=IBM&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</p>
+
+---
+
+## 🏆 Certificates & Recognitions
+
+Berikut adalah sertifikat pencapaian dan partisipasi akademis saya:
+
+<table border="0">
+  <tr>
+    <td width="50%">
+      <img src="sertifikat-aiu.png" width="100%" alt="Dean's List Award" />
+      <p align="center"><em>Dean's List Award</em></p>
+    </td>
+    <td width="50%">
+      <img src="sertifikat-sbss.png" width="100%" alt="SBSS Leadership Workshop" />
+      <p align="center"><em>SBSS Leadership & Participation Certificate</em></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🎨 My Design Journey
+
+Aktivitas pengerjaan identitas visual produk kreatif (*Brand Identity Portfolio*):
+
+<p align="center">
+  <img src="design-journey.png" width="95%" alt="My Design Journey Showcase" />
+</p>
+
+---
+
+## 📞 Professional Vision & Contact
+
+> *"I truly believe that combining creative storytelling with organized execution is the best way to connect with an audience, and I can't wait to learn from industry experts while bringing a fresh, dedicated perspective to the team."*
+
+<p align="left">
+  <a href="mailto:fatimiyahabas@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-fatimiyahabas%40gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/fatimiyah-abas">
+    <img src="https://img.shields.io/badge/LinkedIn-Fatimiyah_Abas-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" />
+  </a>
+</p>
+
+💬 **Phone:** +60 11-13083096
