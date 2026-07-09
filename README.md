@@ -1,20 +1,20 @@
-# Fatimiyah Abas Abdul Manan Nduen
+# <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=1A5276&center=true&vCenter=true&width=600&lines=Fatimiyah+Abas;Brand+Strategist;Marketing+Communication" alt="Typing SVG" /></p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-Seeking%20Internship-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Brand%20Strategy%20%26%20Marketing-blue?style=for-the-badge" />
-</p>
+<!-- 💡 ELEMEN MOTION: Teks di atas akan bergerak otomatis mengetik sendiri! -->
 
-### 📊 Marketing Student @ Albukhary International University
-
----
-
-## 📑 About Me
-
-<table>
+<table border="0" align="center" width="100%">
   <tr>
-    <td bgcolor="#f4f7fa">
-      <p>High-achieving <strong>Bachelor of Business Administration (Honors) in Marketing</strong> student from Albukhary International University with a strong academic foundation (<strong>CGPA 3.41/4.0</strong>). Highly passionate about brand strategy, marketing communication, and event management, I possess practical experience in building core brand identities, executing strategic promotional campaigns, and coordinating comprehensive event logistics. By bridging creative storytelling with structured marketing frameworks, I have proven my capability in driving audience engagement and managing on-site event operations—ready to contribute meticulous execution and strategic insights to corporate initiatives.</p>
+    <!-- 📸 BAGIAN FOTO PROFIL ANDA (Kiri) -->
+    <td width="30%" align="center" valign="middle">
+      <img src="foto-profil.png" width="180px" style="border-radius: 50%;" alt="Fatimiyah Abas" />
+      <br><br>
+      <img src="https://img.shields.io/badge/Status-Seeking%20Internship-orange?style=for-the-badge" />
+    </td>
+    <!-- 📑 KOTAK BACKGROUND & ABOUT ME (Kanan) -->
+    <td width="70%" bgcolor="#f4f7fa" style="padding: 20px; border-radius: 10px;">
+      <h2>👋 About Me</h2>
+      <p>High-achieving <strong>Bachelor of Business Administration (Honors) in Marketing</strong> student from Albukhary International University with a strong academic foundation (<strong>CGPA 3.41/4.0</strong>).</p>
+      <p>Highly passionate about brand strategy, marketing communication, and event management. By bridging creative storytelling with structured marketing frameworks, I drive audience engagement meticulously.</p>
     </td>
   </tr>
 </table>
@@ -23,12 +23,13 @@
 
 ## 🎯 Internship Objective
 
-<table>
+<!-- 💡 KOTAK BACKGROUND WARNA BIRU MUDA -->
+<table border="0" width="100%">
   <tr>
-    <td bgcolor="#eff6ff">
+    <td bgcolor="#eff6ff" style="padding: 15px; border-radius: 8px;">
       🔑 <strong>Timeframe:</strong> Seeking a full-time internship from <strong>August 2026 – October 2026</strong>.<br>
       🚀 <strong>Target Roles:</strong> Brand Strategy, Event Planning, Content Creation, or Corporate Marketing.<br>
-      🎓 <strong>Future Outlook:</strong> Expected graduation on <strong>28 November 2026</strong>. Highly motivated to contribute fresh strategic insights and transition into an impactful full-time marketing role.
+      🎓 <strong>Future Outlook:</strong> Expected graduation on <strong>28 November 2026</strong>. Ready to transition into an impactful full-time marketing role.
     </td>
   </tr>
 </table>
@@ -43,44 +44,36 @@
 
 ### ☕ ZUS Coffee IMC Campaign
 > **Project Lead**
-* Designed multimedia campaign video and applied STP framework to optimize audience targeting.
+* Designed multimedia campaign video and applied STP framework.
 
 ### 📣 Business & Marketing Society (BMS), AIU
 > **Head of Information & Publicity**
-* Managed communication strategies and led promotional layouts for society events.
-
-### 🌍 International Youth Cooperation Forum (ICYF)
-> **Country Representative (Timor-Leste)**
-* Represented youth initiatives and participated in global academic and cross-cultural discourse.
+* Managed communication strategies and led promotional layouts.
 
 ---
 
 ## 🛠️ Technical & Creative Skills
-
+<!-- 💡 ELEMEN BERWARNA DARI SHIELDS.IO -->
 <p align="left">
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
   <img src="https://img.shields.io/badge/CapCut-%23000000.svg?style=for-the-badge&logo=CapCut&logoColor=white" />
   <img src="https://img.shields.io/badge/IBM_SPSS-%230073B7.svg?style=for-the-badge&logo=IBM&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
 ---
 
 ## 🏆 Certificates & Recognitions
 
-Berikut adalah sertifikat pencapaian dan partisipasi akademis saya:
-
-<table border="0">
+<table border="0" width="100%">
   <tr>
-    <td width="50%">
+    <td width="50%" align="center">
       <img src="sertifikat-aiu.png" width="100%" alt="Dean's List Award" />
-      <p align="center"><em>Dean's List Award</em></p>
+      <p><strong>Dean's List Award</strong></p>
     </td>
-    <td width="50%">
+    <td width="50%" align="center">
       <img src="sertifikat-sbss.png" width="100%" alt="SBSS Leadership Workshop" />
-      <p align="center"><em>SBSS Leadership & Participation Certificate</em></p>
+      <p><strong>SBSS Leadership & Participation</strong></p>
     </td>
   </tr>
 </table>
@@ -88,19 +81,13 @@ Berikut adalah sertifikat pencapaian dan partisipasi akademis saya:
 ---
 
 ## 🎨 My Design Journey
-
-Aktivitas pengerjaan identitas visual produk kreatif (*Brand Identity Portfolio*):
-
 <p align="center">
   <img src="design-journey.png" width="95%" alt="My Design Journey Showcase" />
 </p>
 
 ---
 
-## 📞 Professional Vision & Contact
-
-> *"I truly believe that combining creative storytelling with organized execution is the best way to connect with an audience, and I can't wait to learn from industry experts while bringing a fresh, dedicated perspective to the team."*
-
+## 📞 Let's Connect!
 <p align="left">
   <a href="mailto:fatimiyahabas@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-fatimiyahabas%40gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
@@ -109,5 +96,3 @@ Aktivitas pengerjaan identitas visual produk kreatif (*Brand Identity Portfolio*
     <img src="https://img.shields.io/badge/LinkedIn-Fatimiyah_Abas-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" />
   </a>
 </p>
-
-💬 **Phone:** +60 11-13083096
